@@ -19,5 +19,4 @@ public class Sem2_1 {
         }
         scanner.close();
     }
-
 }

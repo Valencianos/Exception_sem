@@ -17,4 +17,5 @@ public class Sem2_4 {
         }
         scanner.close();
     }
+
 }
